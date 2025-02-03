@@ -1,5 +1,5 @@
 import SectionHeading from "@/app/Helper/SectionHeading";
-import { aboutInfo, BaseInfo } from "@/Data/data";
+import {  BaseInfo } from "@/Data/data";
 import { FaCheck } from "react-icons/fa";
 import Image from "next/image";
 
